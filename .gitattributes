@@ -1,2 +1,2 @@
 * linguist-vendored
-*.htm linguist-vendored=false
+*.cpp linguist-vendored=false
